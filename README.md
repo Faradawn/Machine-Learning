@@ -1,5 +1,5 @@
-![alt text][logo]
-[logo]: ./src/img/icon_faradawn.png
+![alt text][logo] 
+[logo]: (./src/img/icon_faradawn.png)
 # Hi. It is Nice to Meet You!
 
 ## My Question Board
@@ -25,7 +25,7 @@
 
 ## More About Me
 [My `Personal Website`](https://www.faradawny.com)  
-[My `Video Space`] (https://space.bilibili.com/49683148)  
+[My `Video Space`](https://space.bilibili.com/49683148)  
 [Project `Solved Chinese`](https://www.solvedchinese.org)  
 
 
