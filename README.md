@@ -3,11 +3,13 @@
 # Hi. It is Nice to Meet You!
 
 ## My Question Board
-- [ ] Git what is Project vs. Repository?
-- [ ] Git how to add SSH key?
-- [ ] GIt what is GitLab vs GitHub
-- [ ] Racket how to 'sqrt'?
-- [ ] Recket is there cli?  
+- [ ] componentDidMount (), not call multiple times?
+- [ ] how to button getElementbyID?
+- [ ] where put var?
+- [x] not in constructor
+- [x] componentDidMount , three times
+- [x] render, no
+
 
 
 
